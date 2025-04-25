@@ -10,7 +10,7 @@ import { Sidebar } from "@/components/sidebar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "南京医科大学场馆预约系统",
+  title: "场馆预约系统",
   description: "便捷预约体育场馆，轻松管理预约任务",
     generator: 'v0.dev'
 }
